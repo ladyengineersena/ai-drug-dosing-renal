@@ -1,0 +1,3 @@
+# This file ensures the synthetic data directory is tracked by git
+# Actual data files are ignored (see .gitignore)
+
