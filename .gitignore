@@ -62,3 +62,7 @@ sample_patient.json
 *.pdf
 *.docx
 
+# Development helper scripts (not for end users)
+check_files.py
+copy_workspace_files.py
+
